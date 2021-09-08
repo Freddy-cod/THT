@@ -1,1 +1,1 @@
-
+This program is a form of a calculator . It receives values in string format and returns strings as results . The input has an arithmetic symbol or an instruction of how to manipulate the values as first index . Example "+ 2 2 " means 2+2 . Note the values are separated by a space . The calculator can add , subtract , divide , multiply , find highest prime and fibonacci number given a value and find factorials of numbers . When given a number with no instruction at the beginning the program will return the value inputted .
